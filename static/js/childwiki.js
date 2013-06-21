@@ -1,0 +1,4 @@
+function showChildWiki() {
+	
+	alert("welcome");
+}
